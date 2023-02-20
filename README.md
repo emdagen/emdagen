@@ -2,8 +2,9 @@
 <h3 align="center">Full Stack Developer from Montreal, QC</h3>
 
  <br>
+
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emdagen&theme=tokyonight" alt="emdagen" /></p>
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emdagen&" alt="emdagen" /></p>
  <br>
  
 - 🔭 I’m currently working on **Cosmic Compass (currently private)**
