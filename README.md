@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **emiliedagenais89@gmail.com**
 
-- ⚡ Fun fact **I can saber a 🍾 bottle. If no🔪 is available, an 📱 also works.**
+
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
@@ -28,5 +28,5 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/emdagen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emdagen" height="30" width="40" /></a>
-<a href="https://instagram.com/emdagen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emdagen" height="30" width="40" /></a>
+
 </p>
