@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **fun projects**
 
-- 👨‍💻 All of my projects are available on [My Portfolio](https://emdagen.vercel.app/)
+- 👨‍💻 Have a 👀 at my [Portfolio](https://emdagen.vercel.app/)
 
 - 💬 Ask me about **Code, Travel & Astrology**
 
