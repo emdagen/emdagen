@@ -7,7 +7,7 @@
  
  <br>
  
-- 🔭 I’m currently working on **Cosmic Compass (currently private)**
+- 🔭 I’m currently working on **Cosmic Compass**
 
 - 🌱 I’m currently learning **React Native & TypeScript**
 
