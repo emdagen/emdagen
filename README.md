@@ -15,8 +15,6 @@
 
 - 👨‍💻 Have a 👀 at my [Portfolio](https://emdagen.vercel.app/)
 
-- 💬 Ask me about **Code, Travel & Astrology**
-
 - 📫 How to reach me **emiliedagenais89@gmail.com**
 
 
