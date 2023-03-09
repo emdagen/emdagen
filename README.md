@@ -7,17 +7,17 @@
  
  <br>
  
-- 🔭 I’m currently working on **Cosmic Compass**
+- 🔭 I’m currently working on **LevelUp**☝️
+
+- 🔮 Recent project **Cosmic Compass** [View here](https://cosmic-compass.onrender.com/)
+
+- 👨‍💻 Have a 👀 at my [Portfolio](https://emdagen.vercel.app/)
 
 - 🌱 I’m currently learning **React Native & TypeScript**
 
 - 👯 I’m looking to collaborate on **fun projects**
 
-- 👨‍💻 Have a 👀 at my [Portfolio](https://emdagen.vercel.app/)
-
-- 📫 How to reach me **emiliedagenais89@gmail.com**
-
-
+- 📫 Contact ➡️ **emiliedagenais89@gmail.com**
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
