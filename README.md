@@ -7,13 +7,13 @@
  
  <br>
  
-- 🔭 I’m currently working on **LevelUp**☝️
+- 🔭 I’m currently working on **LevelUp**☝️ and **ConsiderIT 📃**
 
 - 🔮 Recent project **Cosmic Compass** [View here](https://cosmic-compass.onrender.com/)
 
 - 👨‍💻 Have a 👀 at my [Portfolio](https://emdagen.vercel.app/)
 
-- 🌱 I’m currently learning **React Native & TypeScript**
+- 🌱 I’m currently learning **TypeScript and Next.js 13**
 
 - 👯 I’m looking to collaborate on **fun projects**
 
