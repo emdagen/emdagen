@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **fun projects**
 
-- 📫 Contact ➡️ **emiliedagenais89@gmail.com**
+
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
