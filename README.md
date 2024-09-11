@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **fun projects**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7D87F7&width=435&lines=Focus+on+creating+clean%2C+user-friendly+interfaces+;Building+and+deploying+scalable+web+applications)](https://git.io/typing-svg)
+
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
