@@ -13,9 +13,8 @@
 
 - 👨‍💻 Have a 👀 at my [Portfolio](https://emdagen.vercel.app/)
 
-- 🌱 I’m currently learning **TypeScript and Next.js 13**
+- 🌱 I’m currently exploring **AI Development**
 
-- 👯 I’m looking to collaborate on **fun projects**
 
 
 
