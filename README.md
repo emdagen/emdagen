@@ -9,7 +9,7 @@
  
 - 🔭 I’m currently working on **LevelUp**☝️ and **ConsiderIT 📃**
 
-- 🔮 Recent project **Cosmic Compass** [View here](https://cosmic-compass.onrender.com/)
+- 🔮 Recent project **Cosmic Compass** 
 
 - 👨‍💻 Have a 👀 at my [Portfolio](https://emdagen.vercel.app/)
 
