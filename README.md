@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7D87F7&multiline=true&width=435&lines=Hi%2C+I'm+Emilie%F0%9F%91%8B;A+Full-Stack+Developer+based+in+Montreal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D87F7&width=435&lines=Hi%2C+I'm+Emilie+%F0%9F%91%8B)](https://git.io/typing-svg)
 
  <br>
 
