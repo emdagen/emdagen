@@ -27,3 +27,4 @@
 <a href="https://linkedin.com/in/emdagen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emdagen" height="30" width="40" /></a>
 
 </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=emdagen&left_color=green&right_color=blue)
