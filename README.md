@@ -28,3 +28,12 @@
 
 </p>
 
+
+<img src="https://api.visitorbadge.io/api/VisitorHit?user=emdagen&repo=emdagen&countColor=%237B1E7A" width="1" height="1" style="opacity:0;" alt="Visitor counter">
+
+
+
+
+
+
+
