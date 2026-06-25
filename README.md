@@ -13,7 +13,6 @@
 
 - 👨‍💻 Have a 👀 at my [Portfolio](https://emdagen.vercel.app/)
 
-- 🌱 I’m currently exploring **AI Development**
 
 
 
